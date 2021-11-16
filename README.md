@@ -14,13 +14,13 @@ Antes de começarmos, tenha certeza que você possui os seguintes requisitos:
 
 * Conhecimento básico da plataforma FiveM e suas dependências.
 
-### 💕 Recommendations
+### 💕 Recomendações
 
 * Mantenha seus [artefatos](https://runtime.fivem.net/artifacts/fivem/) atualizados.
 * Certifique-se que seu [OXMysql](https://github.com/overextended/oxmysql) está atualizado.
 * Certifique-se que você tem [MariaDB](https://mariadb.org/download/?rel=10.6.4&prod=mariadb) ou similar instalado e atualizado em sua máquina.
 
-### 🚀 Installing Project Zombie
+### 🚀 Instalando Project Zombie
 
 _Aviso: Caso esteja com dúvidas sobre como clonar veja esse [tutorial aqui](https://help.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository), vai te ajudar_
 

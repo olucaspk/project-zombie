@@ -1,0 +1,5 @@
+artifacts
+cache
+resources/ox_inventory
+config/server.cfg
+config/variables.cfg
